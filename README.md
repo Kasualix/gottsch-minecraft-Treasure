@@ -1,7 +1,5 @@
+<a href="https://discord.gg/CpWXamx"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bisecthosting.com/partners/custom-banners/c2ffda8c-27ac-48b0-9375-bbc58aa4a7df.png" alt="" width="900" height="150" /><img src="https://img.shields.io/discord/596352475204943873.svg?style=for-the-badge&amp;logo=discord" /></a>
 [![](https://img.shields.io/discord/596352475204943873.svg?style=for-the-badge&logo=discord)](https://discord.gg/CpWXamx)
-[![](https://img.shields.io/github/issues/gottsch/gottsch-minecraft-Treasure.svg?style=for-the-badge&logo=github)](https://github.com/gottsch/gottsch-minecraft-Treasure/issues)
-[![](https://img.shields.io/github/issues/gottsch/gottsch-minecraft-Treasure/enhancement.svg?style=for-the-badge&logo=github)](https://github.com/gottsch/gottsch-minecraft-Treasure/issues)
-[![](https://img.shields.io/github/issues/gottsch/gottsch-minecraft-Treasure/content%20add.svg?style=for-the-badge&logo=github)](https://github.com/gottsch/gottsch-minecraft-Treasure/issues)[![](https://img.shields.io/github/issues/gottsch/gottsch-minecraft-Treasure/bug.svg?style=for-the-badge&logo=github)](https://github.com/gottsch/gottsch-minecraft-Treasure/issues)</br>
 [![](http://cf.way2muchnoise.eu/treasure2.svg)](#)</br>
 
 # Treasure2! 
