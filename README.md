@@ -1,4 +1,4 @@
-<a href="https://discord.gg/CpWXamx"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bisecthosting.com/partners/custom-banners/c2ffda8c-27ac-48b0-9375-bbc58aa4a7df.png" alt="" width="900" height="150" />
+[![](https://www.bisecthosting.com/partners/custom-banners/247d1af5-aa58-4e3b-b40a-33672078b388.png)]()
 [![](https://img.shields.io/discord/596352475204943873.svg?style=for-the-badge&logo=discord)](https://discord.gg/CpWXamx)
 [![](http://cf.way2muchnoise.eu/treasure2.svg)](#)</br>
 
